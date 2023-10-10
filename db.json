@@ -1,0 +1,28 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "name": "mabunabu",
+      "email": "mabu@nabu",
+      "password": "mabunabu",
+      "direccionSede": "Puente Alto",
+      "conductor": "false",
+      "licenciaConductor": "",
+      "patenteVehiculo": "",
+      "admin": "false"
+    },
+    {
+      "id": 2,
+      "name": "jefaso",
+      "email": "og@boss",
+      "password": "clavejefaso",
+      "direccionSede": "Puente Alto",
+      "conductor": "true",
+      "licenciaConductor": "a123dsa22",
+      "patenteVehiculo": "yamaz",
+      "admin": "false"
+    }      
+   
+  ]
+}
+
